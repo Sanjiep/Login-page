@@ -1,3 +1,4 @@
 {
-    "liveServer.settings.multiRootWorkspaceName": "Amazon clone"
+    "liveServer.settings.multiRootWorkspaceName": "Amazon clone",
+    "liveServer.settings.port": 5502
 }
